@@ -1,0 +1,46 @@
+.menu li{
+    display: inline;
+    margin-right: 15px;
+    
+}
+.menu ul{
+    text-align: left;
+    margin-top: 25px;
+    
+}
+.bgColor{
+    background-color: #E9ECEF;
+}
+.header{
+    text-align: center;
+    margin-top: 75px;
+    color: red;
+}
+.paragraph{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.merkez ul {
+    display: table;
+    margin: 0 auto;
+    
+}
+.rowTop{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card-text{
+    background-color: darkgray;
+    border: 5px ;
+    width: max-content;
+
+    border-radius: 5px;
+    
+}
+.card-img{
+    width: 100%;
+height: 40vh;
+object-fit: cover;
+}
+
